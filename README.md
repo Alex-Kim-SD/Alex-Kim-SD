@@ -7,13 +7,17 @@
 I'm a Full Stack Software Engineer with a background in **finance** and **fintech**. Leveraging my skills and knowledge, I've engaged in a variety of development environments that span different industries.
 
 ### Key Projects
-
+    
 - **AI-Powered Dialogue Web Application**:
-    - **Technologies**: OpenAI's API, JavaScript, Python
+    - **Technologies**: OpenAI's API, React, Flask, Redux
     - **Description**: An interactive web application that generates dialogue between AI personalities, demonstrating my proficiency in managing and creating APIs, AI integration, and understanding of OpenAI's GPT models.
 
+- **Drag and Drop Kanban Board (inspired by Trello)**:
+    - **Technologies**: React Beautiful DnD, React, Flask, Redux
+    - **Description**: Intuitive drag-and-drop Kanban board interface for task management, React Beautiful DnD for seamless drag-and-drop functionality and Python Flask for a robust backend.
+
 - **Rental Service Platform (inspired by Airbnb)**:
-    - **Technologies**: React, Redux, Flask, SQL
+    - **Technologies**: React, Redux, SQL
     - **Description**: A feature-rich platform, showing my extensive range of full-stack development skills and commitment to enhancing user experiences.
 
 ### Skills
