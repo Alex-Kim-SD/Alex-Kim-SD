@@ -17,7 +17,7 @@ I'm a Full Stack Software Engineer with a background in **finance** and **fintec
     - **Description**: Intuitive drag-and-drop Kanban board interface for task management, React Beautiful DnD for seamless drag-and-drop functionality and Python Flask for a robust backend.
 
 - **Rental Service Platform (inspired by Airbnb)**:
-    - **Technologies**: React, Redux, SQL
+    - **Technologies**: React, Redux, Express, SQL
     - **Description**: A feature-rich platform, showing my extensive range of full-stack development skills and commitment to enhancing user experiences.
 
 ### Skills
