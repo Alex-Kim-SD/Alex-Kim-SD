@@ -5,6 +5,7 @@
 ## About Me
 
 I'm a Full Stack Software Engineer with a background in **finance** and **fintech**. Leveraging my skills and knowledge, I've engaged in a variety of development environments that span different industries.
+Throughout my career, I've consistently demonstrated my ability to create dynamic software solutions and apply technology effectively to enhance user experiences and solve complex problems.
 
 ### Key Projects
     
@@ -45,12 +46,7 @@ I'm a Full Stack Software Engineer with a background in **finance** and **fintec
     ![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?logo=microsoft-office&logoColor=white) 
     ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=black) 
     ![OpenAI](https://img.shields.io/badge/-OpenAI-000000?logo=openai&logoColor=white) 
-    Process Optimization, Data Structures, Algorithms, Pair Programming, TDD, OOP, APIs, Library Integration
-
-
-## Conclusion
-
-Throughout my career, I've consistently demonstrated my ability to create dynamic software solutions and apply technology effectively to enhance user experiences and solve complex problems.
+    Process Optimization, Data Structures, Algorithms, Pair Programming, TDD, OOP, APIs, 3rd Party Library Integration
 
 ---
 
